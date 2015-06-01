@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26511" started-at="2015-06-01T16:14:39Z" finished-at="2015-06-01T16:15:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26511" started-at="2015-06-01T16:14:39Z" finished-at="2015-06-01T16:15:06Z">
+      <class name="com.paxotech.qa.TestHigbrdg">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.paxotech.qa.TestHigbrdg@16a90c9]" name="setUp" is-config="true" duration-ms="4272" started-at="2015-06-01T12:14:39Z" finished-at="2015-06-01T12:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.paxotech.qa.TestHigbrdg@16a90c9]" name="test1" duration-ms="21999" started-at="2015-06-01T12:14:43Z" finished-at="2015-06-01T12:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.paxotech.qa.TestHigbrdg@16a90c9]" name="tearDown" is-config="true" duration-ms="229" started-at="2015-06-01T12:15:05Z" finished-at="2015-06-01T12:15:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.paxotech.qa.TestHigbrdg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
